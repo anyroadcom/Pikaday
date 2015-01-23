@@ -175,7 +175,7 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 }
 
 .is-today .pika-button {
-  color: #33aaff;
+  color: #E73C3E;
   font-weight: bold;
 }
 
@@ -194,7 +194,7 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 
 .pika-button:hover {
   color: #fff !important;
-  background: #CF6062 !important;
+  background: #E73C3E !important;
   box-shadow: none !important;
 }
 
